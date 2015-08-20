@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>c:\users\administrator\google drive\web\htdocs\dit\semester 2\data structures\ιmplementations\data structures\restaurant\</FILEPATH><FILENAME>waiter.c</FILENAME><LINE>48</LINE><COLUMN>7</COLUMN></SFA><DEFECTCODE>6031</DEFECTCODE><DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION><FUNCTION>main</FUNCTION><DECORATED>main</DECORATED><FUNCLINE>35</FUNCLINE><PATH/></DEFECT></DEFECTS>
